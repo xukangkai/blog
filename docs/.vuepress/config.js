@@ -4,9 +4,11 @@ const htmlModules = require('./config/htmlModules.js');
 module.exports = {
   theme: 'vdoing', // 使用npm包主题
   // theme: require.resolve('../../theme-vdoing'), // 使用本地主题
-
-  title: "XUKK Blog",
-  description: 'web前端技术博客,专注web前端学习与总结。JavaScript,js,ES6,TypeScript,vue,React,python,css3,html5,Node,git,github等技术文章。',
+  markdown: {
+    extractHeaders: [ 'h2', 'h3', 'h4']
+  },
+  title: "XuKK Blog",
+  description: 'Java技术博客,专注Java学习与总结。',
   // base: '/', // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
 
   // 主题配置
@@ -75,6 +77,7 @@ module.exports = {
         text: '工具|部署',
         items: [
           { text: 'Git命令', link: '/pages/cdfffd/' },
+          { text: '阿里Java开发手册', link: '/pages/b1bc33/' },
         ],
       },
       {
