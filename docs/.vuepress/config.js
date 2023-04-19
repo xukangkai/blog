@@ -74,6 +74,12 @@ module.exports = {
         ],
       },
       {
+        text: '数据库',
+        items: [
+          { text: 'ElasticSearch', link: '/pages/cdfffd123/' },
+        ],
+      },
+      {
         text: '工具|部署',
         items: [
           { text: 'Git命令', link: '/pages/cdfffd/' },
