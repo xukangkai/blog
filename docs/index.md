@@ -17,7 +17,7 @@ features: # 可选的
 - title: Java后端
   details: Java后端相关技术
   link: /java/
-  imgUrl: /imgs/java.jpg
+  imgUrl: /img/python.png
 - title: 技术
   details: 技术文档、教程、技巧、总结等文章
   link: /technology/
