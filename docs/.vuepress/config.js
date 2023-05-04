@@ -68,9 +68,6 @@ module.exports = {
         link: '/technology/',
         items: [
           { text: '技术文档', link: '/pages/9a7ee40fc232253e/' },
-          { text: 'GitHub技巧', link: '/pages/4c778760be26d8b3/' },
-          { text: 'Nodejs', link: '/pages/117708e0af7f0bd9/' },
-          { text: '博客搭建', link: '/pages/41f87d890d0a02af/' },
         ],
       },
       {
@@ -82,7 +79,7 @@ module.exports = {
       {
         text: '工具|部署',
         items: [
-          { text: 'Git命令', link: '/pages/cdfffd/' },
+          { text: 'Git命令', link: '/note/git/' },
           { text: '阿里Java开发手册', link: '/pages/b1bc33/' },
         ],
       },
@@ -93,8 +90,7 @@ module.exports = {
           { text: '学习', link: '/pages/f2a556/' },
           { text: '面试', link: '/pages/aea6571b7a8bae86/' },
           { text: '心情杂货', link: '/pages/2d615df9a36a98ed/' },
-          { text: '实用技巧', link: '/pages/baaa02/' },
-          { text: '友情链接', link: '/friends/' },
+          { text: '实用技巧', link: '/pages/baaa02/' }
         ],
       },
       {
