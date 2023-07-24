@@ -64,10 +64,9 @@ module.exports = {
         link: '/pages/cdfffd/',
       },
       {
-        text: 'java',
-        link: '/technology/',
+        text: 'Java',
         items: [
-          { text: '技术文档', link: '/pages/9a7ee40fc232253e/' },
+          { text: 'Java并发-线程基础',items: [{ text: 'java并发基础', link: '/pages/b02182/' }]},
         ],
       },
       {
