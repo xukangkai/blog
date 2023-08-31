@@ -60,18 +60,16 @@ module.exports = {
         ],
       },
       {
-        text: '面试',
-        link: '/pages/cdfffd/',
+         text: 'Easy-Model',
+         link: '/pages/60f9fd/'
       },
+   
       {
         text: 'Java',
-        items: [
-          { text: 'Java并发-线程基础',items: [{ text: 'java并发基础', link: '/pages/b02182/' }]},
-        ],
+        link:'/pages/cdfffd/'
       },
       {
         text: 'Spring',
-        link: '/spring/',
         items: [
           // 说明：以下所有link的值只是在相应md文件头部定义的永久链接（不是什么特殊编码）。另外，注意结尾是有斜杠的
           {
