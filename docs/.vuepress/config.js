@@ -104,8 +104,9 @@ module.exports = {
             text: '学习博客网站',
             items: [
               {text: '田守枝技术博客', link: 'http://www.tianshouzhi.com/api/tutorials/tool'},
-              {text: '蚂蚁课堂', link: 'http://www.mayikt.com/'},
+              {text: '蚂蚁课堂', link: 'https://appvxnsma4r5053.pc.xiaoe-tech.com/page/4257024'},
               {text: '廖雪峰官方网站', link: 'https://www.liaoxuefeng.com/'},
+              {text: 'JAVA全栈知识体系', link:'https://www.pdai.tech/'},
               {text: 'Linux命令大全(手册)', link: 'https://www.linuxcool.com/'},
             ]
           },
