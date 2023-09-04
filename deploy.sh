@@ -22,3 +22,8 @@ git push -f $push_addr HEAD:$push_branch
 
 cd -
 rm -rf $dist_path
+
+## 运行报错处理记录
+
+升级后报错 ‘error:0308010C:digital envelope routines::unsupported’
+在控制台输入  $env:NODE_OPTIONS="--openssl-legacy-provider" 然后运行就好了
