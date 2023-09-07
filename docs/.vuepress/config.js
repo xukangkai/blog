@@ -82,9 +82,7 @@ module.exports = {
       },
       {
         text: '数据库',
-        items: [
-          { text: 'ElasticSearch', link: '/pages/cdfffd123/' },
-        ],
+        link: '/pages/62f028/'
       },
       {
         text: '工具|部署',
@@ -98,46 +96,8 @@ module.exports = {
         link: '/pages/f19930/'
       },
       {
-        text: '工具箱|博客',
-        items: [
-          {
-            text: '学习博客网站',
-            items: [
-              {text: '田守枝技术博客', link: 'http://www.tianshouzhi.com/api/tutorials/tool'},
-              {text: '蚂蚁课堂', link: 'https://appvxnsma4r5053.pc.xiaoe-tech.com/page/4257024'},
-              {text: '廖雪峰官方网站', link: 'https://www.liaoxuefeng.com/'},
-              {text: 'JAVA全栈知识体系', link:'https://www.pdai.tech/'},
-              {text: 'Linux命令大全(手册)', link: 'https://www.linuxcool.com/'},
-            ]
-          },
-          {
-            text: "框架", items: [
-              {text: 'MyBatis-Plus', link: 'https://mp.baomidou.com/'},
-              {text: 'MyBatis-flex', link: 'https://mybatis-flex.com/zh/intro/getting-started.html/'},
-              {text: 'Sa-token', link: 'https://sa-token.cc/'},
-              {text: 'Easy-es/', link: 'https://www.easy-es.cn/'},
-              {text: 'Spring', link: 'https://spring.io/'},
-              {text: 'vuepress-theme-vdoing', link: 'https://doc.xugaoyi.com/'},
-            ]
-          },
-          {
-            text: "常用工具", items: [
-              {text: 'JSON在线解析', link: 'https://www.json.cn/'},
-              {text: 'maven', link: 'https://mvnrepository.com/'},
-              {text: 'Hutool', link: 'https://hutool.cn/docs/#/'},
-              {text: 'WxJava', link: 'https://github.com/Wechat-Group/WxJava/wiki'},
-              {text: 'WxJava码云', link: 'https://gitee.com/binary/weixin-java-tools'},
-            ]
-          },
-          {
-            text: "在线编辑", items: [
-              {text: '图片压缩', link: 'https://tinypng.com/'},
-              {text: '图片放大', link: 'https://bigjpg.com/'},
-              {text: '免费PPT', link: 'https://mvnrepository.com/'},
-              {text: '简历模版', link: 'https://www.jianliben.com/'},
-            ]
-          },
-        ]
+        text: '收藏夹',
+        link:'/pages/beb6c0bd8a66cea6/' 
       },
       {
         text: '索引',
