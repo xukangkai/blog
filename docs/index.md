@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /imgs/logo.jpg
-heroText: XUKK BLOG
+heroText: 编程之旅
 tagline: Java 相关技术博客，像女枪大招一样，一扫所有知识盲点
 # actionText: 立刻进入 →
 # actionLink: /web/

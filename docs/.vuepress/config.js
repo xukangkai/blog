@@ -7,7 +7,7 @@ module.exports = {
   markdown: {
     extractHeaders: [ 'h2', 'h3', 'h4']
   },
-  title: "XuKK Blog",
+  title: "编程之旅",
   description: 'Java技术博客,专注Java学习与总结。',
   // base: '/', // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
 
@@ -86,10 +86,7 @@ module.exports = {
       },
       {
         text: '工具|部署',
-        items: [
-          { text: 'Git命令', link: '/note/git/' },
-          { text: '阿里Java开发手册', link: '/pages/b1bc33/' },
-        ],
+        link:'/note/git/'
       },
       {
         text: '博客文章',
